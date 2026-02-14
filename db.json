@@ -1,0 +1,309 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "language": "English",
+      "genre": "Sci-Fi",
+      "duration": "2h 28m",
+      "rating": 8.8,
+      "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "language": "English",
+      "genre": "Sci-Fi",
+      "duration": "2h 49m",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Avengers: Endgame",
+      "language": "English",
+      "genre": "Superhero",
+      "duration": "3h 2m",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "language": "English",
+      "genre": "Action",
+      "duration": "2h 32m",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Jawan",
+      "language": "Hindi",
+      "genre": "Action",
+      "duration": "2h 49m",
+      "rating": 7.6,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pathaan",
+      "language": "Hindi",
+      "genre": "Action",
+      "duration": "2h 26m",
+      "rating": 7.0,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg"
+    },
+    {
+      "id": 7,
+      "title": "3 Idiots",
+      "language": "Hindi",
+      "genre": "Comedy",
+      "duration": "2h 50m",
+      "rating": 8.4,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg"
+    },
+    {
+      "id": 8,
+      "title": "KGF Chapter 2",
+      "language": "Kannada",
+      "genre": "Action",
+      "duration": "2h 48m",
+      "rating": 8.3,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Baahubali 2",
+      "language": "Telugu",
+      "genre": "Epic",
+      "duration": "2h 47m",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w500/21sC2assImQIYCEDA84Qh9d1RsK.jpg"
+
+    },
+    {
+      "id": 10,
+      "title": "RRR",
+      "language": "Telugu",
+      "genre": "Action",
+      "duration": "3h 2m",
+      "rating": 8.0,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Pushpa",
+      "language": "Telugu",
+      "genre": "Action",
+      "duration": "2h 59m",
+      "rating": 7.6,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/75/Pushpa_-_The_Rise_%282021_film%29.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Joker",
+      "language": "English",
+      "genre": "Drama",
+      "duration": "2h 2m",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Dangal",
+      "language": "Hindi",
+      "genre": "Drama",
+      "duration": "2h 41m",
+      "rating": 8.4,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Spider-Man: No Way Home",
+      "language": "English",
+      "genre": "Superhero",
+      "duration": "2h 28m",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Avatar: The Way of Water",
+      "language": "English",
+      "genre": "Sci-Fi",
+      "duration": "3h 12m",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+    }
+  ],
+
+  "theatres": [
+    {
+      "id": 1,
+      "name": "PVR Orion Mall",
+      "location": "Rajajinagar, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/PVR_Cinemas_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "INOX Garuda Mall",
+      "location": "MG Road, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/INOX_Leisure_Limited_Logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Cinepolis Forum Mall",
+      "location": "Koramangala, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cinepolis_logo.svg"
+    },
+    {
+      "id": 4,
+      "name": "PVR Vega City",
+      "location": "Bannerghatta Road, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/PVR_Cinemas_logo.svg"
+    },
+    {
+      "id": 5,
+      "name": "INOX Central Mall",
+      "location": "JP Nagar, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/INOX_Leisure_Limited_Logo.svg"
+    },
+    {
+      "id": 6,
+      "name": "PVR Phoenix Marketcity",
+      "location": "Whitefield, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/PVR_Cinemas_logo.svg"
+    },
+    {
+      "id": 7,
+      "name": "Cinepolis Royal Meenakshi",
+      "location": "Bannerghatta Road, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cinepolis_logo.svg"
+    },
+    {
+      "id": 8,
+      "name": "INOX Brookefield",
+      "location": "AECS Layout, Bangalore",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/INOX_Leisure_Limited_Logo.svg"
+    }
+  ],
+
+  "releases": [
+    {
+      "id": 1,
+      "title": "Avatar 3",
+      "genre": "Sci-Fi, Adventure",
+      "releaseDate": "2026-12-18",
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w500/8rpDcsfLJypbO6vREc0547VKqEv.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Avengers: Secret Wars",
+      "genre": "Action, Superhero",
+      "releaseDate": "2026-05-01",
+      "rating": 8.9,
+      "poster": "https://image.tmdb.org/t/p/w500/4J3c4Z9bCjTdjXkD5pY8R5l7J9V.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Batman Part II",
+      "genre": "Action, Crime",
+      "releaseDate": "2026-10-02",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w500/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fast X: Part 2",
+      "genre": "Action, Thriller",
+      "releaseDate": "2026-04-10",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Jurassic World: Rebirth",
+      "genre": "Adventure, Sci-Fi",
+      "releaseDate": "2026-06-12",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "genre": "Animation, Action",
+      "releaseDate": "2026-03-27",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w500/cfT29Im5VDvjE0RpyKOSl5q1QY9.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Mission Impossible 8",
+      "genre": "Action, Spy",
+      "releaseDate": "2026-07-17",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w500/jlZJ6q2J9H0jRz8DkV0tfPqJ8wT.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Star Wars: New Order",
+      "genre": "Sci-Fi, Fantasy",
+      "releaseDate": "2026-12-25",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w500/1HObYjWv2tVqQ2z4Z9W4gT5fZkN.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fantastic Four",
+      "genre": "Superhero, Sci-Fi",
+      "releaseDate": "2026-11-06",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w500/8eQf0dWXk7Mkl9V6Yg5K4Xk7wY1.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Dune: Messiah",
+      "genre": "Sci-Fi, Drama",
+      "releaseDate": "2026-09-18",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w500/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg"
+    }
+  ],
+
+
+  "shows": [
+    { "id": 1, "movieId": 1, "theatreId": 1, "time": "10:00 AM", "price": 200 },
+    { "id": 2, "movieId": 1, "theatreId": 2, "time": "1:00 PM", "price": 250 },
+
+    { "id": 3, "movieId": 3, "theatreId": 3, "time": "4:00 PM", "price": 300 },
+    { "id": 4, "movieId": 4, "theatreId": 1, "time": "7:00 PM", "price": 280 },
+
+    { "id": 5, "movieId": 5, "theatreId": 4, "time": "9:00 PM", "price": 220 },
+    { "id": 6, "movieId": 7, "theatreId": 2, "time": "11:00 AM", "price": 180 },
+
+    { "id": 7, "movieId": 8, "theatreId": 1, "time": "3:00 PM", "price": 260 },
+    { "id": 8, "movieId": 10, "theatreId": 3, "time": "6:00 PM", "price": 270 },
+
+    { "id": 9, "movieId": 12, "theatreId": 4, "time": "8:00 PM", "price": 240 },
+    { "id": 10, "movieId": 15, "theatreId": 2, "time": "5:00 PM", "price": 320 }
+  ],
+
+  "seats": [
+    { "showId": 1, "seatNo": "A1", "available": true },
+    { "showId": 1, "seatNo": "A2", "available": false },
+    { "showId": 1, "seatNo": "A3", "available": true },
+
+    { "showId": 2, "seatNo": "B1", "available": true },
+    { "showId": 2, "seatNo": "B2", "available": true },
+
+    { "showId": 3, "seatNo": "C1", "available": false },
+    { "showId": 3, "seatNo": "C2", "available": true },
+
+    { "showId": 4, "seatNo": "D1", "available": true },
+    { "showId": 4, "seatNo": "D2", "available": false }
+  ],
+
+  "bookings": []
+}

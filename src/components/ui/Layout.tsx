@@ -7,7 +7,7 @@ export default function Layout() {
   return (
     <>
     <Navbar/>
-    <div className="min-h-[calc(100vh-200px)]">
+    <div className="min-h-[85vh] max-w-7xl mx-auto px-4 py-4">
         <Outlet/>
     </div>
     <Footer/>
